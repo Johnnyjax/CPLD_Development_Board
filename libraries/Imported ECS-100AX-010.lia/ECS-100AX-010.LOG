@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : ECS-100AX-010.LibPkg
+
+Section : C:\Users\John\Documents\Altium\Eight_bit_v1\libraries\ECS-100AX-010.lia
+    Section : PCB Library - ECS-100AX-010.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ECS-100AX-010 On Line 148
+            Warning - 1 : Skipping Token attachedSymbol On Line 205
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ECS-100AX-010.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 114
+            Warning - 1 : Skipping Token layerContents On Line 126
+            Warning - 1 : Skipping Token layerContents On Line 140
+        EndSection
+
+        Section : Generating SCH Library - ECS-100AX-010.SchLib
+        EndSection
+    EndSection
+EndSection

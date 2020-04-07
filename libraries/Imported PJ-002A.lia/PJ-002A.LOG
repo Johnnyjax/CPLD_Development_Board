@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : PJ-002A.LibPkg
+
+Section : C:\Users\John\Documents\Altium\Eight_bit_v1\libraries\PJ-002A.lia
+    Section : PCB Library - PJ-002A.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token PJ-002A On Line 156
+            Warning - 1 : Skipping Token attachedSymbol On Line 228
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - PJ-002A.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 109
+            Warning - 1 : Skipping Token layerContents On Line 123
+            Warning - 1 : Skipping Token layerContents On Line 131
+            Warning - 1 : Skipping Token layerContents On Line 145
+        EndSection
+
+        Section : Generating SCH Library - PJ-002A.SchLib
+        EndSection
+    EndSection
+EndSection

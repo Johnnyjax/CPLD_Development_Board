@@ -1,0 +1,39 @@
+PCAD Importer Log
+Project : SC52-11HWA.LibPkg
+
+Section : C:\Users\John\Documents\Altium\Eight_bit_v1\libraries\SC52-11HWA.lia
+    Section : PCB Library - SC52-11HWA.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token SC52-11HWA On Line 130
+            Warning - 1 : Skipping Token attachedSymbol On Line 336
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - SC52-11HWA.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 114
+            Warning - 1 : Skipping Token layerContents On Line 118
+            Warning - 1 : Skipping Token layerContents On Line 124
+            Warning - 1 : Skipping Token isVisible On Line 292
+            Warning - 1 : Skipping Token isVisible On Line 293
+            Warning - 1 : Skipping Token isVisible On Line 294
+            Warning - 1 : Skipping Token isVisible On Line 295
+            Warning - 1 : Skipping Token isVisible On Line 296
+            Warning - 1 : Skipping Token isVisible On Line 297
+            Warning - 1 : Skipping Token isVisible On Line 298
+            Warning - 1 : Skipping Token isVisible On Line 299
+            Warning - 1 : Skipping Token isVisible On Line 300
+            Warning - 1 : Skipping Token isVisible On Line 301
+        EndSection
+
+        Section : Generating SCH Library - SC52-11HWA.SchLib
+        EndSection
+    EndSection
+EndSection
